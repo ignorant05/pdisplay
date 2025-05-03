@@ -3,6 +3,7 @@
 ## Deskription
 
 A simple CLI tool created with node.js that imitates the behaviour of other tools like lsof or ps, it is more focused on wireless connections ans port identification for each running service.
+It gives you the option to kill a process or not; you can navigate using the arrow keys and then press "ok" button to kill that process.
 
 ## Perquisites
 
