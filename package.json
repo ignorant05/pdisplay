@@ -1,0 +1,26 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon pdisplay.js",
+    "dev": "node --watch pdisplay.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "nodemon": "^3.1.10",
+    "systeminformation": "^5.25.11"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  },
+  "bin": {
+    "pdisplay": "./pdisplay.js"
+  }
+}
