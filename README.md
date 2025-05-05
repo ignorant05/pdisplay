@@ -5,9 +5,9 @@
 A simple CLI tool created with node.js that imitates the behaviour of other tools like lsof or ps, it is more focused on wireless connections ans port identification for each running service.
 It gives you the option to kill a process or not; you can navigate using the arrow keys and then press "ok" button to kill that process.
 
-## Perquisites
+## Prerequisites
 
-**NOTE:** If you have the **latest** node version on your local machine you can ignore the next prequisite.
+**NOTE:** If you have the **latest** node version on your local machine you can ignore the next prerequisite.
 
 - Docker _enabled_ and _started_
 
