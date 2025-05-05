@@ -34,6 +34,7 @@ git clone https://github.com/ignorant05/pdisplay.git
 If you have node already on your local machine then just jump into it:
 
 ```bash
+npm i -g pdisplay # or use npm link to create a symlink on your local machine
 pdisplay
 ```
 
